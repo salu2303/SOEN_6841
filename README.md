@@ -1,2 +1,2 @@
-SOEN 6841 - Software Project Mnagement 
+SOEN 6841 - Software Project Management 
 Learning Journal
